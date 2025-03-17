@@ -27,3 +27,15 @@ Then:
 ## Start the demo
 
 Run `python main.py` and type anything you want to ask the RAG system
+
+## Screenshots
+
+### Ask RAG a random question
+
+![a2f22b53e37ee6fb92e43bd67d735e20](https://github.com/user-attachments/assets/bfc7f3e0-bea7-4b3f-9f1f-855f4b78c1fa)
+
+### Vector Database
+
+![fb20250642869db7e0e8dd406774fdd3](https://github.com/user-attachments/assets/e8649171-8950-4693-b2d8-02e4d1cbc72b)
+![680b5c08190bfca80f51d1aeef6edff9](https://github.com/user-attachments/assets/af31f243-6b4f-4763-9e63-b0e53f2efc75)
+
