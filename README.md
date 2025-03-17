@@ -1,5 +1,11 @@
 # RAG DEMO
 
+![GitHub](https://img.shields.io/github/license/laolarou726/RAG_Demo?logo=github&style=for-the-badge)
+![Maintenance](https://img.shields.io/maintenance/yes/2025?logo=diaspora&style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/laolarou726/RAG_Demo?style=for-the-badge)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/laolarou726/RAG_Demo?logo=github&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/laolarou726/RAG_Demo?logo=github&style=for-the-badge)
+
 This is a minimal demo project to show the capabilities of a RAG system using `LangChain` and `Milvus`, it contains all the things you required to build a basic RAG system.
 
 ## Before Start
