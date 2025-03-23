@@ -3,3 +3,4 @@ Documents
 Milvus/volumes
 Milvus/*.yaml
 */__pycache__
+/.idea
