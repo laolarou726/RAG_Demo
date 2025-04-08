@@ -32,7 +32,6 @@ if __name__ == '__main__':
         for idx, result in enumerate(results):
             print("=" * 50)
             print(f"Document {idx}")
-            print(result)
 
             print("Metadata: ", result.metadata)
             print("Content: ", result.page_content)
